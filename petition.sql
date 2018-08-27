@@ -1,7 +1,7 @@
 DROP DATABASE IF EXISTS petition_app;
 CREATE DATABASE petition_app;
 
-\c forum_app;
+\c petition_app;
 
 CREATE TABLE petitions (
   id SERIAL PRIMARY KEY,
