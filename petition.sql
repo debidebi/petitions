@@ -1,5 +1,5 @@
-DROP DATABASE IF EXISTS forum_app;
-CREATE DATABASE forum_app;
+DROP DATABASE IF EXISTS petition_app;
+CREATE DATABASE petition_app;
 
 \c forum_app;
 
